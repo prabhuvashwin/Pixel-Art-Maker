@@ -1,4 +1,5 @@
 # Pixel Art Maker Project
+----------------------------------------------------
 
 Pixel Art Maker project is a single page web app which allows users to draw a pixel on the customizable canvas. This project is a part of Udacity's Front-End Developer Nanodegree program and the skeleton code is available [here](https://github.com/udacity/project-pixel-art-maker-starter)
 
